@@ -8,7 +8,7 @@ fill() //
 fullScreen();
 String title = " Marco's Physics Topics";
 PFont titleFont;
-titleFont = createFont("KodchiangUPCItalic", 80);
+titleFont = createFont("ArialMT-48", 80);
 rect(displayWidth*1/4,displayHeight*0,displayWidth*1/2,displayHeight*1/8 );
 
 
